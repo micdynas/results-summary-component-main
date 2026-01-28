@@ -7,9 +7,7 @@ body{
     height: 100%;
     margin-top: 130px;
      font-family: "Hanken Grotesk", sans-serif;
-
 }
-
 .card{
     display: flex;
     flex-direction: row;   
@@ -22,9 +20,7 @@ body{
      border-radius: 20px;
      color: white;
      position: relative;
-     z-index: 1;
-    
-    
+     z-index: 1;    
 }
 .result-section h2{
     font-size: 17px;
@@ -48,7 +44,6 @@ body{
     justify-self: center;
     line-height: 1.3;
 }
-
 .rs-circle{
     background-image: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
     width: 150px;
@@ -59,16 +54,13 @@ body{
     margin-top: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    
+    justify-content: center;  
 }
 .rs-circle h1{
     font-size: 55px;
     font-weight: 700;
     margin-top: 10px;
-    margin-bottom: 0;
-  
-   
+    margin-bottom: 0;   
 }
 .rs-circle p {
     font-size: 15px;
