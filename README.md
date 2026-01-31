@@ -25,8 +25,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/micdynas/results-summary-component-main)
-- Live Site URL: [Add live site URL here](https://micdynas.github.io/results-summary-component-main/)
+- Solution URL: [https://github.com/micdynas/results-summary-component-main](https://github.com/micdynas/results-summary-component-main)
+- Live Site URL: [https://micdynas.github.io/results-summary-component-main/](https://micdynas.github.io/results-summary-component-main/)
 
 ## My process
 
